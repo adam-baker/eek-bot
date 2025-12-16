@@ -1,4 +1,4 @@
-# Python Discord Bot Template
+# eek-bot: discord (based on kkrypt0nn bot template)
 
 <p align="center">
   <a href="https://discord.gg/xj6y5ZaTMr"><img src="https://img.shields.io/discord/1358456011316396295?logo=discord"></a>
